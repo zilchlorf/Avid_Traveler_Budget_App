@@ -41,8 +41,6 @@ self.addEventListener('activate', evt => {
 // Fetch Files
 self.addEventListener('fetch', evt => {
     if (evt.request.url.includes('/api/')) {
-        console.log('[Service Worker] Fetch (data)', evt.request.url);
-
         evt.respondWith(
             caches.open(DATA_CACHE_NAME).then(cache => {
                 return fetch(evt.request)
