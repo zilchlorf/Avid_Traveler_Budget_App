@@ -1,7 +1,7 @@
 
 # Avid Traveler Budget App
 Link to live application:
-avid-traveler-budget-app.herokuapp.com
+https://avid-traveler-budget-app.herokuapp.com/
 
 Table of Contents:
         
@@ -21,7 +21,7 @@ The project exhibits offline functionality.  The user is able to add expenses an
  Good for use by avid travelers who don't always have an internet connection, but still want to maintain a database that will be updated once they are back online. 
 
 # Installation:
- Simply navigate to the deployed application at avid-traveler-budget-app.herokuapp.com 
+ Simply navigate to the deployed application at https://avid-traveler-budget-app.herokuapp.com/
 
 # Contribute:
  Feel free to fork, clone and play with the code. 
