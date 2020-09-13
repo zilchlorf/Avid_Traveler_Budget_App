@@ -50,7 +50,7 @@ self.addEventListener('fetch', evt => {
                         }
                         return response;
                     })
-                    .catch(err => {
+                    .catch(err => { alert('you are offline and your transaction is pending')
                         return cache.match(evt.request);
                     });
             })
