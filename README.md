@@ -12,6 +12,7 @@ Table of Contents:
 - [tests](#tests)
 - [Questions](#Questions)
 
+![image](https://user-images.githubusercontent.com/63215148/93010634-84550600-f543-11ea-953c-a63b0f5ac920.png)
 
 # Project_Description:
 The project exhibits offline functionality.  The user is able to add expenses and deposits to their budget with or without a connection.  When entering transactions offline, the total is populated when brought back online. 
